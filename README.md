@@ -4,8 +4,6 @@
 
 ### Computer Science Student · Full-Stack Developer · Cloud Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=CS+Student+%40+Saint+Louis+University;Full-Stack+Web+Developer;Oracle+Cloud+Certified;AWS+Hackathon+Finalist)](https://git.io/typing-svg)
-
 </div>
 
 ---
