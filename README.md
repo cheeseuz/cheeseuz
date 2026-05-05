@@ -42,24 +42,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Cloud**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## ++ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **O'wayCis** | Campus navigation system with room management, visual maps & secure multi-role access | Full-Stack Web |
-| **Louver** | Web-based food delivery system with user authentication & order placement | HTML, CSS, JS |
-| **Hola to Hello** | Python CFG translator for bidirectional Spanish–English sentence conversion | Python |
-| **Bolt** | IoT pet health monitoring system tracking temperature, heart rate & activity | Arduino, IoT |
-| **Voluntally** | MySQL-based volunteer management & program tracking system | MySQL, SQL |
-| **DormEats** | C-based recipe management system with custom data structures & algorithms | C |
-
 ---
 
 ## ++ Certifications
@@ -72,14 +54,11 @@
 
 ## ++ GitHub Stats
 
-<div align="center">
+<div ![Zeus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheeseuz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![cheeseuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseuz&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=cheeseuz&theme=tokyonight&hide_border=true)
 </div>
 
 ---
@@ -107,5 +86,5 @@ Baguio City, Benguet, Philippines &nbsp;|&nbsp;  0916-402-0097
 ---
 
 <div align="center">
-
+![Visitor Count](https://komarev.com/ghpvc/?username=cheeseuz&color=blue&style=flat-square)
 </div>
