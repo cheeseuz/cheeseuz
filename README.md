@@ -12,19 +12,11 @@
 
 ## ++ About Me
 
-```python
-zeus = {
-    "name": "Zeus Marc C. Erese",
-    "location": "Baguio City, Benguet 🇵🇭",
-    "education": "BS Computer Science @ Saint Louis University (2023–2027)",
-    "achievement": "Dean's List | AWS Innovation Cup 2025 Finalist",
-    "interests": ["Web Development", "Cloud Computing", "IoT", "AI/ML"],
-    "currently_learning": ["Cloud Architecture", "AI Integration"],
-    "fun_fact": "I also edit videos on Fiverr"
-}
-```
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=zeus+%3D+%7B+...+%7D;name%3A+%22Zeus+Marc+C.+Erese%22;location%3A+%22Baguio+City%2C+PH%22;Dean%27s+List+%7C+AWS+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+</div>
 
 ## ++ Tech Stack
 
