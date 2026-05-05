@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## ++ About Me
 
 ```python
 zeus = {
@@ -26,7 +26,7 @@ zeus = {
 
 ---
 
-## 🛠️ Tech Stack
+## ++ Tech Stack
 
 **Languages**
 
@@ -59,7 +59,7 @@ zeus = {
 
 ---
 
-## 🚀 Featured Projects
+## ++ Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -72,7 +72,7 @@ zeus = {
 
 ---
 
-## 🏆 Certifications
+## ++ Certifications
 
 - 🟠 **Oracle Cloud Infrastructure 2025 — Foundations Associate** · [View](https://bit.ly/4nV8JBv)
 - 🟠 **Oracle Cloud Infrastructure 2025 — Architect Associate** · [View](https://bit.ly/4r4SWTA)
@@ -84,7 +84,7 @@ zeus = {
 
 <div align="center">
 
-![Zeus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![cheeseuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -103,7 +103,7 @@ zeus = {
 
 ---
 
-## 📫 Connect With Me
+## ++ Connect With Me
 
 <div align="center">
 
