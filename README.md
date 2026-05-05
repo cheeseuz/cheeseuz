@@ -20,7 +20,7 @@ zeus = {
     "achievement": "Dean's List | AWS Innovation Cup 2025 Finalist",
     "interests": ["Web Development", "Cloud Computing", "IoT", "AI/ML"],
     "currently_learning": ["Cloud Architecture", "AI Integration"],
-    "fun_fact": "I also edit videos on Fiverr 🎬"
+    "fun_fact": "I also edit videos on Fiverr"
 }
 ```
 
@@ -63,24 +63,24 @@ zeus = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🏫 **O'wayCis** | Campus navigation system with room management, visual maps & secure multi-role access | Full-Stack Web |
-| 🍽️ **Louver** | Web-based food delivery system with user authentication & order placement | HTML, CSS, JS |
-| 🌐 **Hola to Hello** | Python CFG translator for bidirectional Spanish–English sentence conversion | Python |
-| 🐾 **Bolt** | IoT pet health monitoring system tracking temperature, heart rate & activity | Arduino, IoT |
-| 🤝 **Voluntally** | MySQL-based volunteer management & program tracking system | MySQL, SQL |
-| 🍳 **DormEats** | C-based recipe management system with custom data structures & algorithms | C |
+| **O'wayCis** | Campus navigation system with room management, visual maps & secure multi-role access | Full-Stack Web |
+| **Louver** | Web-based food delivery system with user authentication & order placement | HTML, CSS, JS |
+| **Hola to Hello** | Python CFG translator for bidirectional Spanish–English sentence conversion | Python |
+| **Bolt** | IoT pet health monitoring system tracking temperature, heart rate & activity | Arduino, IoT |
+| **Voluntally** | MySQL-based volunteer management & program tracking system | MySQL, SQL |
+| **DormEats** | C-based recipe management system with custom data structures & algorithms | C |
 
 ---
 
 ## ++ Certifications
 
-- 🟠 **Oracle Cloud Infrastructure 2025 — Foundations Associate** · [View](https://bit.ly/4nV8JBv)
-- 🟠 **Oracle Cloud Infrastructure 2025 — Architect Associate** · [View](https://bit.ly/4r4SWTA)
-- 🟠 **Oracle Cloud Infrastructure 2025 — Generative AI Professional** · [View](https://bit.ly/444qKWW)
+- **Oracle Cloud Infrastructure 2025 — Foundations Associate** · [View](https://bit.ly/4nV8JBv)
+- **Oracle Cloud Infrastructure 2025 — Architect Associate** · [View](https://bit.ly/4r4SWTA)
+- **Oracle Cloud Infrastructure 2025 — Generative AI Professional** · [View](https://bit.ly/444qKWW)
 
 ---
 
-## 📊 GitHub Stats
+## ++ GitHub Stats
 
 <div align="center">
 
@@ -94,12 +94,12 @@ zeus = {
 
 ---
 
-## 🌟 Highlights
+## ++ Highlights
 
-- 🏆 **AWS Innovation Cup 2025 Finalist** — Team EnTyche | BGC, Taguig City
-- 📚 **Dean's List** — 2nd Sem AY 2023–2024 to Present
-- 🎬 **Freelance Video Editor** on Fiverr
-- 🎓 **BS Computer Science** @ Saint Louis University (Expected 2027)
+-  **AWS Innovation Cup 2025 Finalist** — Team EnTyche | BGC, Taguig City
+-  **Dean's List** — 2nd Sem AY 2023–2024 to Present
+-  **Freelance Video Editor** on Fiverr
+-  **BS Computer Science** @ Saint Louis University (Expected 2027)
 
 ---
 
@@ -110,16 +110,12 @@ zeus = {
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeuserese@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-📍 Baguio City, Benguet, Philippines &nbsp;|&nbsp; 📞 0916-402-0097
+Baguio City, Benguet, Philippines &nbsp;|&nbsp;  0916-402-0097
 
 </div>
 
 ---
 
 <div align="center">
-
-*"Committed to producing accurate, high-quality work and continuously enhancing professional expertise."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
 
 </div>
