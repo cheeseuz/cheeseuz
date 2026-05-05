@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Zeus Marc Erese!
+# Hi there, I'm Zeus!
 
 ### Computer Science Student · Full-Stack Developer · Cloud Enthusiast
 
