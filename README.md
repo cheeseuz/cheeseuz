@@ -55,15 +55,14 @@
 ## ++ GitHub Stats
 
 <div
-## 📊 GitHub Stats
 
 <div align="center">
 
-![Zeus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheeseuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=cheeseuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseuz&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseuz&layout=compact&theme=tokyonight&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cheeseuz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=cheeseuz&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
